@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shaoqi Zhang"
 title_separator          : "-"
 name                     : &name "Shaoqi Zhang"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shaoqi Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
